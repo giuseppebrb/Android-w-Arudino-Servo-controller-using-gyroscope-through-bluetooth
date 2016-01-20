@@ -1,4 +1,4 @@
-# Android (w/ Arudino) - Servo controller using gyroscope through bluetooth
+# Android (w/ Arduino) - Servo controller using gyroscope through bluetooth
 
 With this app, which connects itself to Arduino by bluetooth, you can control a servo motor using gyroscope.
 While user rotate phone on y axis* servo changes its position.
