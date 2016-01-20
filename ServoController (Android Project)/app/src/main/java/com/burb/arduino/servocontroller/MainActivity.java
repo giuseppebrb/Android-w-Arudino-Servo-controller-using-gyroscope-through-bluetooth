@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private static final UUID MY_UUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
 
     // Bluetooth device MAC address -- YOU HAVE TO INSERT YOUR OWN!!
-    private static String address = "30:14:10:15:01:70";
+    private static String address = "00:00:00:00:00:00";
 
     private SensorManager mSensorManager;
 
